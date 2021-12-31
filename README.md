@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section
 
-Check additional attribution in the source code! added by reandyx
+Check additional attribution in the source code! (added by reandyx)
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
